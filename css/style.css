@@ -1,0 +1,20 @@
+.btn-mongo {
+  font-family: "Inter";
+  background-color: #00ed64;
+  color: #121212;
+  font-weight: bolder;
+  letter-spacing: 0.1rem;
+  border: 2px solid #121212;
+  border-radius: 4px;
+}
+
+.btn-mongo:hover {
+  background-color: #121212;
+  color: #00ed64;
+}
+
+.card {
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+}
